@@ -1,8 +1,16 @@
 ## 디버깅(debugging)이란?
 컴퓨터 프로그램이나 시스템의 정확성 또는 논리적인 오류(버그)를 검출하여 제거하는 과정
 
+#### 디버깅 용어
 
-### 단축키
+- Resume: 다음 브레이크 포인트를 만날 때까지 진행
+- Step into: Methode를 포함한 라인을 만나면 Mothod 안으로 진입
+- Step over: 다음 라인으로 이동, Method가 있어도 안으로 진입하지 않고 다음 라인으로 이동
+- Step Return: 현재 Method에서 즉시 Return
+- Drop to Frame: Method를 처음부터 다시 
+
+
+#### 단축키
 
 ||Visual Studio | Eclipse | IDEL |
 |---|---|---|---|
