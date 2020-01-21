@@ -14,7 +14,7 @@
 
 ||Visual Studio | Eclipse | IDEL |
 |---|---|---|---|
-|시작 |Ctrl + F5| | |
+|시작 |Ctrl + F5|Ctrl + F11|F5|
 ||
 |디버깅 모드 실행 | F5 | F11 |
 |디버깅 모드 중단 | Shift + F5 | Ctrl + F2 |
