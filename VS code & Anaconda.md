@@ -7,7 +7,9 @@
 3. 환경 사용하기
   - Anaconda Navigator에서 필요한 Package를 검색하여 설치
   - 터미널에서 pip install 패키지이름  ex) pip install numpy
-```
+```  
+
+![](https://github.com/aldrn29/IDE/blob/master/image/anaconda_2.JPG?raw=true)
 
 ## VS code 와 Anaconda 연동
 ```
@@ -16,3 +18,5 @@
   - ctrl+shift+P - Python: Select Interpreter - Python~
 3. 
 ```
+![](https://github.com/aldrn29/IDE/blob/master/image/vscode_1.JPG?raw=true)
+![](https://github.com/aldrn29/IDE/blob/master/image/vscode_2.JPG?raw=true)
