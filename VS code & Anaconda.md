@@ -37,7 +37,7 @@ C:\\Anaconda 설치경로\\Scripts\\activate.bat C:\\Anaconda 설치경로
   
 ```
 "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-"terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\Anaconda 설치경로\\Scripts\\activate.bat C:\\Users\\Mee\\Anaconda3 & conda activate 사용할 conda env 이름"]
+"terminal.integrated.shellArgs.windows": ["/K", "C:\\Anaconda설치경로\\Scripts\\activate.bat C:\\Anaconda설치경로 & conda activate 사용할 conda env 이름"]
 ```   
 ![](https://github.com/aldrn29/IDE/blob/master/image/vscode_4.JPG?raw=true)
 (특정 환경 사용시에만 뒤에 '& conda env 이름'이 추가됨)  
