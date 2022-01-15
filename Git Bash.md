@@ -23,7 +23,7 @@ git config --global --list
 ``` 
 
 
-
+<br>  
 
 ## Git Repository
 
@@ -71,7 +71,7 @@ git log -S tt                 // 코드에서 추가되거나 제거된 내용 �
 ```
 
 
-
+<br>  
 
 ## Git Branch
 
@@ -113,7 +113,7 @@ git branch -d test                                  // 이름이 'test'라는 �
 ```
 
 
-
+<br>  
 
 ## Git Remote
 
@@ -144,7 +144,7 @@ git remote rm git_test                              // 이름이 'git_test'인 �
 ```
 git pull                                            // HEAD->master(로컬) + origin/master(원격)
 
-git log origin/master
+git fetch origin master
 git merge origin/master
 ```
 
@@ -155,8 +155,7 @@ git push origin master                              // 로컬 저장소에서 �
 
 
 -----------------------
-<br>
-## 요약!
+<br>  
 
 ```
 git add .
